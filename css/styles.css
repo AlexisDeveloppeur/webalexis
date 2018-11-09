@@ -2,7 +2,10 @@ html{
 	font-family: 'Patrick Hand', cursive;
 	background-color: rgb(44,44,44);
 	color: rgb(100,202,9);
+	text-align: center;
+
 }
 header{
-	text-align: center;
+	border-top:1px  solid  rgba(100,202,9,0.7);
+	margin-top: 2%;
 }
