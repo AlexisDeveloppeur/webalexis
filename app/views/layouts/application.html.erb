@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AlexisDev</title>
+    <%= csrf_meta_tags %>
+    <link rel="stylesheet" href="css/styles.css">
+	  <link href="https://fonts.googleapis.com/css?family=Patrick+Hand" rel="stylesheet">
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
