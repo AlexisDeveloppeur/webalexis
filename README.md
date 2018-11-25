@@ -1,5 +1,5 @@
-# README
+# AlexisDevelppeur website
 
 Website make with Ruby on rails 
 
-&copy 2018 AlexisDeveloppeur 
+© 2018 AlexisDeveloppeur 
